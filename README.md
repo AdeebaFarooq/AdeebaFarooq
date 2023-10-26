@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdeebaFarooq
 - 👀 I’m interested in Coding..
-- 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on Microsoft
+- 🌱 I’m currently learning dsa
+
 - 📫 How to reach me adeebafarooq39@gmail.com
 
 <!---
